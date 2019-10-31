@@ -1,0 +1,1 @@
+La méthode OC-SVM nous permet d'obtenir une grande précision avec nu petit (nu = 0.01, 0.02) mais recall est faible.
